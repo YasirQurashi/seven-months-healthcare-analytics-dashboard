@@ -44,6 +44,9 @@ The dataset also categorizes visits by **visit type** (Emergency, Routine), **tr
 
 The dataset met a high standard of accuracy, and no further data cleaning was needed.
 
+
+![](https://github.com/YasirQurashi/six-months-healthcare-analytics-dashboard/blob/main/dashbaord-preview.png)
+
 ## Analysis
 
 I began by importing the hospital visit dataset and reviewing its structure and contents.
